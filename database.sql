@@ -19,4 +19,4 @@ email varchar(50),
 review varchar(500),
 stars int,
 rb varchar(10)
-);
+); 
